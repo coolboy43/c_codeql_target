@@ -39,7 +39,7 @@
         buf2[9] = 0;
     }
 
-    void get_minus_two() {
+    int get_minus_two() {
         return -2;
     }
     void test5() {
